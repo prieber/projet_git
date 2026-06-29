@@ -1,5 +1,5 @@
 # Projet Git
 
-Il faut que j'ajoute une nouvelle section: alors la voici!
+Ceci est la version MASTER de cette ligne.
 
 Hum, de nouveaux changements? et bien, les voici!
